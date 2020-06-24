@@ -25,4 +25,4 @@ Classified as FOREST.
 ![alt text](https://github.com/mohit138/Natural-Scenes-Classification/blob/master/images/sea_class.png?raw=true) 
 Classified as SEA.
 
-The model predicts preety accurately each scene it is presented with. Just after 2 epochs, it train accuracy was **83.3%** and validation accuracy was **89.77%**. 
+The model predicts preety accurately each scene it is presented with. Just after 2 epochs, it train accuracy was **88.31%** and validation accuracy was **91.10%**. 
